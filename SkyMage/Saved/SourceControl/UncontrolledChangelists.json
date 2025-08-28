@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/VFX/NA_Systems/NS_FireCubes.uasset",
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/VFX/M_VFX/M_VFXb.uasset",
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/Material.uasset",
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/BasicCube.uasset",
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/O5/ERGPWJJPPE4BMK1CI2ZB4C.uasset",
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/QY/FSMNL3KLM133J5VKZAU0BE.uasset",
 				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/Material.uasset",
 				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/BasicCube.uasset"
 			]
