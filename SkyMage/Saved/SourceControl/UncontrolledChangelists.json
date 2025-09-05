@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/fernandezd/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"/Users/fernandezd/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/WallForRunning.uasset",
 				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/Material.uasset",
 				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/BasicCube.uasset",
 				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/GZ/TTBKQTM7H2HDLWB3T16ZLY.uasset",
