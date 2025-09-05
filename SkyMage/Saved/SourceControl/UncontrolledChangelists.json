@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/Material.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/BasicCube.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/GZ/TTBKQTM7H2HDLWB3T16ZLY.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/TF/CA1M3I7Q6ZU2YTEVLV8PIG.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/62/F837DFLGAGGWRVBG0VCTYD.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/T5/P6N7UF5W6DUNOR0PPRDKSJ.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/CH/5L4SW2DY4ZT5K9E9XXO9Z3.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/VV/YZHV7R0OOQAR76S4K52LRX.uasset",
 				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/VFX/NA_Systems/NS_FireCubes.uasset",
 				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/VFX/M_VFX/M_VFXb.uasset",
 				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/Material.uasset",
@@ -16,9 +24,7 @@
 				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset",
 				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/Materials/M_FlatCol.uasset",
 				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset",
-				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/KD/ME1IE4CRIRALJKUZ1BQQDZ.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/Material.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/BasicCube.uasset"
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/KD/ME1IE4CRIRALJKUZ1BQQDZ.uasset"
 			]
 		}
 	]
