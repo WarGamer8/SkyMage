@@ -6,9 +6,23 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/VFX/NA_Systems/NS_INCHoming.uasset",
-				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/VFX/NA_Systems/NS_Homing.uasset",
 				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/VFX/NA_Systems/NS_INCVortex.uasset",
-				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/VFX/NA_Systems/NS_Vortex.uasset"
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/VFX/NA_Systems/NS_Vortex.uasset",
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/M_gem.uasset",
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/VFX/NA_Systems/NS_CubeEX.uasset",
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/KD/ME1IE4CRIRALJKUZ1BQQDZ.uasset",
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/Baseplate.uasset",
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/YZ/87JOMT06UCQ3Y6RFDCGYDG.uasset",
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/M_gem_Inst.uasset",
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/YM/GPOMLXV55ZYJE1RAWHJTBE.uasset",
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/Turret.uasset",
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/P5/SD7T5WQGAU1XJCDSW8FH26.uasset",
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/UU/1ZY1QFVHRWZSP8YI4VZLMK.uasset",
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/Glass.uasset",
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/1F/9ZQ1QL1ZI5GUNXIE1N3AMI.uasset",
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/Crystal.uasset",
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/Frame.uasset",
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/VFX/NA_Systems/NS_Homing.uasset"
 			]
 		}
 	]
