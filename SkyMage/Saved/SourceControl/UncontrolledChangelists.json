@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/VFX/M_VFX/M_VFXb.uasset",
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/VFX/NA_Systems/NS_INCVortex.uasset",
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularBand.uasset",
 				"/Users/michielsr/Documents/GitHub/SkyMage/SkyMage/Content/Levels/NewWorld1.umap"
 			]
 		}
