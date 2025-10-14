@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"/Users/fernandezd/Documents/GitHub/SkyMage/SkyMage/Intermediate/Source/SkyMage.Build.cs",
+		"/Users/fernandezd/Documents/GitHub/SkyMage/SkyMage/Intermediate/Source/SkyMage.Target.cs",
+		"/Users/fernandezd/Documents/GitHub/SkyMage/SkyMage/Intermediate/Source/SkyMageClient.Target.cs",
+		"/Users/fernandezd/Documents/GitHub/SkyMage/SkyMage/Intermediate/Source/SkyMageEditor.Target.cs",
+		"/Users/fernandezd/Documents/GitHub/SkyMage/SkyMage/Intermediate/Source/SkyMageServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
