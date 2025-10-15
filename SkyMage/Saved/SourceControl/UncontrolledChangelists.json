@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/M_ManaLiquid.uasset",
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/NewVortex.uasset",
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/Levels/Lvl_FirstPerson/C/EH/FFORRGNLOC27KOMPLPH0BP.uasset",
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/VFX/NA_Systems/skahsgdkuwgf.uasset",
 				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/Circle__DS_.uasset",
 				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/Cube.uasset",
 				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/Vortex_PhysicsAsset.uasset",
