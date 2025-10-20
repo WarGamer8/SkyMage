@@ -301,9 +301,9 @@
 /engine/vreditor/transformgizmo/xray
 /game/artistdropbox/baseplate
 /game/artistdropbox/basiccube
-/game/artistdropbox/crystal
 /game/artistdropbox/frame
 /game/artistdropbox/glass
+/game/artistdropbox/m_manaliquid
 /game/artistdropbox/material
 /game/artistdropbox/turret
 /game/artistdropbox/turret_physicsasset
@@ -352,7 +352,6 @@
 /game/firstperson/blueprints/bp_firstpersonplayercontroller
 /game/firstperson/blueprints/bp_wallforrunning
 /game/firstperson/blueprints/checkpointspacialtrigger
-/game/firstperson/blueprints/cylinderforwallrun
 /game/firstperson/blueprints/explosionprojectile
 /game/firstperson/blueprints/killbrick
 /game/firstperson/blueprints/respawnmaterial
@@ -370,10 +369,16 @@
 /game/input/touch/bpi_touchinterface
 /game/input/touch/ui_thumbstick
 /game/input/touch/ui_touchsimple
+/game/levelprototyping/interactable/door/assets/meshes/sm_door
+/game/levelprototyping/interactable/door/assets/meshes/sm_doorframe_corner
+/game/levelprototyping/interactable/door/assets/meshes/sm_doorframe_edge
+/game/levelprototyping/interactable/door/bp_doorframe
+/game/levelprototyping/materials/m_flatcol
+/game/levelprototyping/materials/mi_defaultcolorway
 /game/levelprototyping/materials/mi_prototypegrid_gray
 /game/levelprototyping/meshes/sm_cube
 /game/levels/mainmenu
-/game/levels/newworld1
+/game/levels/tutorial
 /game/turret/bp_turret
 /game/ui/bp_mainmenu
 /game/ui/health

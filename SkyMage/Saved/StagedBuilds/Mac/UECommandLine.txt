@@ -1,1 +1,1 @@
--project="../../../SkyMage/SkyMage.uproject" /Game/Levels/NewWorld1 -Messaging
+-project="../../../SkyMage/SkyMage.uproject" /Game/Levels/Tutorial -Messaging

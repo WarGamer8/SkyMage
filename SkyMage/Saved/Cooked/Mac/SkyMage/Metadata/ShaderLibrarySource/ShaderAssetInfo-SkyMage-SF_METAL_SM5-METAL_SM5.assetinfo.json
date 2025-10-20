@@ -129,12 +129,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "9B5C272A99B95CE9ADAE5865EDF19A405A93BD43",
-			"Assets": [
-				"/Game/ArtistDropbox/Glass"
-			]
-		},
-		{
 			"ShaderMapHash": "A7B3702A9BED64B7452B198523507CCD156CA077",
 			"Assets": [
 				"/HairStrands/Materials/HairCardsDefaultMaterial"
@@ -153,21 +147,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E2DB742F05C34A26DF4DE3E83152B35BBEE98DC3",
-			"Assets": [
-				"/Game/ArtistDropbox/Crystal"
-			]
-		},
-		{
 			"ShaderMapHash": "8D4892331CDE024A284D4B159FBC551485C921A7",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
-			]
-		},
-		{
-			"ShaderMapHash": "C14B2338CC9976444552099EEBE0BFC480864502",
-			"Assets": [
-				"/Game/ArtistDropbox/Frame"
 			]
 		},
 		{
@@ -198,6 +180,12 @@
 			"ShaderMapHash": "0D677D4582A8AE1989FC33832776DA8130FA7A1D",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "46582C4785C6ADB61280A5F76C1F4CE2323761F7",
+			"Assets": [
+				"/Game/ArtistDropbox/M_ManaLiquid"
 			]
 		},
 		{
@@ -334,6 +322,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "5086826E350498100C21189A771917DCAD749471",
+			"Assets": [
+				"/Game/ArtistDropbox/Glass"
+			]
+		},
+		{
 			"ShaderMapHash": "C2E95D6FD78C1B04AF45AB8A0960043788BAB071",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
@@ -430,9 +424,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "3B8BCA97600312AFE3080C153F839317A87DFF1F",
+			"ShaderMapHash": "36DE5B9968AE013E65F449A323BEC5D42BB7C696",
 			"Assets": [
-				"/Game/ArtistDropbox/Baseplate"
+				"/Game/ArtistDropbox/Frame"
 			]
 		},
 		{
@@ -457,6 +451,12 @@
 			"ShaderMapHash": "BBB149A3EFA22B5A4CEC2DE72DE20824BC188DF6",
 			"Assets": [
 				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
+			]
+		},
+		{
+			"ShaderMapHash": "1C930DA5A4105551EB2973C444D64DFA364874FB",
+			"Assets": [
+				"/Game/ArtistDropbox/Baseplate"
 			]
 		},
 		{
@@ -542,6 +542,12 @@
 			"ShaderMapHash": "F97F23C843F9B246B1DF27006A41FFD48E38F28D",
 			"Assets": [
 				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6D6F2FCBAE1EBBBC4F0D0EE02FECC7A0888AA71E",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_FlatCol"
 			]
 		},
 		{
