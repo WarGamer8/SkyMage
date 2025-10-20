@@ -74,3 +74,5 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 .DS_Store
+SkyMage/Saved/Config/MacEditor/EditorPerProjectUserSettings.ini
+SkyMage/Saved/Config/MacEditor/EditorPerProjectUserSettings.ini
