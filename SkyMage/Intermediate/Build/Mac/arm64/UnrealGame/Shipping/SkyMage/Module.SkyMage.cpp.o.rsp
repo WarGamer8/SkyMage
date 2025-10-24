@@ -6,7 +6,7 @@
 -I"Runtime/AutoRTFM/Public"
 -I"../Intermediate/Build/Mac/UnrealGame/Inc/ImageCore/UHT"
 -I"Runtime/ImageCore/Public"
--I"/Users/fernandezd/Documents/GitHub/SkyMage/SkyMage/Intermediate/Build/Mac/arm64/SkyMage/Shipping/Core"
+-I"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Intermediate/Build/Mac/arm64/SkyMage/Shipping/Core"
 -isystem"ThirdParty/GuidelinesSupportLibrary/GSL-1144/include"
 -isystem"ThirdParty/AtomicQueue"
 -Wall
@@ -78,9 +78,9 @@
 -fasm-blocks
 -ffp-contract=off
 -arch arm64
--isysroot "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk"
--include-pch "/Users/fernandezd/Documents/GitHub/SkyMage/SkyMage/Intermediate/Build/Mac/arm64/SkyMage/Shipping/Core/SharedPCH.Core.Project.ValApi.ValExpApi.Cpp20.h.gch"
--include "/Users/fernandezd/Documents/GitHub/SkyMage/SkyMage/Intermediate/Build/Mac/arm64/UnrealGame/Shipping/SkyMage/Definitions.SkyMage.h"
+-isysroot "/Applications/Xcode_16.4.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk"
+-include-pch "/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Intermediate/Build/Mac/arm64/SkyMage/Shipping/Core/SharedPCH.Core.Project.ValApi.ValExpApi.Cpp20.h.gch"
+-include "/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Intermediate/Build/Mac/arm64/UnrealGame/Shipping/SkyMage/Definitions.SkyMage.h"
 -x objective-c++
 -std=c++20
 -Xclang -fno-pch-timestamp
@@ -90,6 +90,6 @@
 -fno-implicit-modules
 -fimplicit-module-maps
 -Wno-module-import-in-extern-c
-"/Users/fernandezd/Documents/GitHub/SkyMage/SkyMage/Intermediate/Build/Mac/arm64/UnrealGame/Shipping/SkyMage/Module.SkyMage.cpp"
--MD -MF"/Users/fernandezd/Documents/GitHub/SkyMage/SkyMage/Intermediate/Build/Mac/arm64/UnrealGame/Shipping/SkyMage/Module.SkyMage.cpp.d"
--o "/Users/fernandezd/Documents/GitHub/SkyMage/SkyMage/Intermediate/Build/Mac/arm64/UnrealGame/Shipping/SkyMage/Module.SkyMage.cpp.o"
+"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Intermediate/Build/Mac/arm64/UnrealGame/Shipping/SkyMage/Module.SkyMage.cpp"
+-MD -MF"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Intermediate/Build/Mac/arm64/UnrealGame/Shipping/SkyMage/Module.SkyMage.cpp.d"
+-o "/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Intermediate/Build/Mac/arm64/UnrealGame/Shipping/SkyMage/Module.SkyMage.cpp.o"

@@ -787,7 +787,7 @@
 "../Plugins/TraceUtilities/Intermediate/Build/Mac/arm64/UnrealGame/Shipping/TraceUtilities/Module.TraceUtilities.cpp.o"
 "../Plugins/WorldMetrics/Intermediate/Build/Mac/arm64/UnrealGame/Shipping/WorldMetricsCore/Module.WorldMetricsCore.cpp.o"
 "../Plugins/WorldMetrics/Intermediate/Build/Mac/arm64/UnrealGame/Shipping/CsvMetrics/Module.CsvMetrics.cpp.o"
-"/Users/fernandezd/Documents/GitHub/SkyMage/SkyMage/Intermediate/Build/Mac/arm64/UnrealGame/Shipping/SkyMage/SkyMage.cpp.o"
+"/Users/fernandezd/Documents/GitHub/SkyMage/SkyMage/Intermediate/Build/Mac/arm64/UnrealGame/Shipping/SkyMage/Module.SkyMage.cpp.o"
 "../Intermediate/Build/Mac/arm64/UnrealGame/Shipping/RHICore/Module.RHICore.cpp.o"
 "../Intermediate/Build/Mac/arm64/UnrealGame/Shipping/MetalRHI/Module.MetalRHI.1.cpp.o"
 "../Intermediate/Build/Mac/arm64/UnrealGame/Shipping/MetalRHI/Module.MetalRHI.2.cpp.o"

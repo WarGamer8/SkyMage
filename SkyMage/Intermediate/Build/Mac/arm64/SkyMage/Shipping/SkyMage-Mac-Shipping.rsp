@@ -1,7 +1,7 @@
--L/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx
+-L/Applications/Xcode_16.4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx
 -L/usr/lib/swift
 -arch arm64
--isysroot "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk"
+-isysroot "/Applications/Xcode_16.4.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk"
 -target arm64-apple-macos14.00
 -dead_strip
 -headerpad_max_install_names
@@ -787,10 +787,10 @@
 "../Plugins/TraceUtilities/Intermediate/Build/Mac/arm64/UnrealGame/Shipping/TraceUtilities/Module.TraceUtilities.cpp.o"
 "../Plugins/WorldMetrics/Intermediate/Build/Mac/arm64/UnrealGame/Shipping/WorldMetricsCore/Module.WorldMetricsCore.cpp.o"
 "../Plugins/WorldMetrics/Intermediate/Build/Mac/arm64/UnrealGame/Shipping/CsvMetrics/Module.CsvMetrics.cpp.o"
-"/Users/fernandezd/Documents/GitHub/SkyMage/SkyMage/Intermediate/Build/Mac/arm64/UnrealGame/Shipping/SkyMage/Module.SkyMage.cpp.o"
+"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Intermediate/Build/Mac/arm64/UnrealGame/Shipping/SkyMage/Module.SkyMage.cpp.o"
 "../Intermediate/Build/Mac/arm64/UnrealGame/Shipping/RHICore/Module.RHICore.cpp.o"
 "../Intermediate/Build/Mac/arm64/UnrealGame/Shipping/MetalRHI/Module.MetalRHI.1.cpp.o"
 "../Intermediate/Build/Mac/arm64/UnrealGame/Shipping/MetalRHI/Module.MetalRHI.2.cpp.o"
 "../Intermediate/Build/Mac/arm64/UnrealGame/Shipping/MetalRHI/Module.MetalRHI.3.cpp.o"
 "../Intermediate/Build/Mac/arm64/UnrealGame/Shipping/MetalRHI/MetalCPP.cc.o"
--o "/Users/fernandezd/Documents/GitHub/SkyMage/SkyMage/Binaries/Mac/SkyMage-Mac-Shipping"
+-o "/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Binaries/Mac/SkyMage-Mac-Shipping"

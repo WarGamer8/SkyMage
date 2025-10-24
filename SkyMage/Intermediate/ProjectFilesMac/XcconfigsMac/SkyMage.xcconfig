@@ -1,4 +1,4 @@
-#include? "/Users/fernandezd/Documents/GitHub/SkyMage/SkyMage/Intermediate/Build/Versions.xcconfig"
+#include? "/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Intermediate/Build/Versions.xcconfig"
 
 // Unreal project-wide variables
 UE_XCODE_BUILD_MODE = Default
@@ -10,9 +10,9 @@ UE_PLATFORM_NAME = Mac
 UE_TARGET_NAME = SkyMage
 UE_TARGET_PLATFORM_NAME = Mac
 UE_ENGINE_DIR = /Users/Shared/EpicGames/UE_5.6/Engine
-UE_BINARIES_DIR = /Users/fernandezd/Documents/GitHub/SkyMage/SkyMage/Binaries/Mac
+UE_BINARIES_DIR = /Users/doddm/Documents/GitHub/SkyMage/SkyMage/Binaries/Mac
 UE_STAGED_BINARIES_DIR_BASE = SkyMage
-UE_PROJECT_DIR = /Users/fernandezd/Documents/GitHub/SkyMage/SkyMage
+UE_PROJECT_DIR = /Users/doddm/Documents/GitHub/SkyMage/SkyMage
 
 // Constant settings (same for all platforms and targets)
 INFOPLIST_OUTPUT_FORMAT = xml
@@ -25,7 +25,7 @@ SUPPORTED_PLATFORMS = macosx
 SDKROOT = macosx
 
 // These settings combined will tell Xcode to write to Binaries/Mac (instead of something like Binaries/Development-iphoneos)
-SYMROOT = /Users/fernandezd/Documents/GitHub/SkyMage/SkyMage/Binaries
+SYMROOT = /Users/doddm/Documents/GitHub/SkyMage/SkyMage/Binaries
 CONFIGURATION = 
 EFFECTIVE_PLATFORM_NAME = Mac
 

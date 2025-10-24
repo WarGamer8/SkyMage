@@ -91,14 +91,14 @@
 -fasm-blocks
 -ffp-contract=off
 -arch arm64
--isysroot "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk"
--include-pch "/Users/fernandezd/Documents/GitHub/SkyMage/SkyMage/Intermediate/Build/Mac/arm64/SkyMage/Development/Core/SharedPCH.Core.Cpp20.h.gch"
+-isysroot "/Applications/Xcode_16.4.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk"
+-include-pch "/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Intermediate/Build/Mac/arm64/SkyMage/Development/Core/SharedPCH.Core.Cpp20.h.gch"
 -x objective-c++-header
 -std=c++20
 -Xclang -fno-pch-timestamp
 -fpch-validate-input-files-content
 -stdlib=libc++
 -fpch-instantiate-templates
-"/Users/fernandezd/Documents/GitHub/SkyMage/SkyMage/Intermediate/Build/Mac/arm64/SkyMage/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.h"
--MD -MF"/Users/fernandezd/Documents/GitHub/SkyMage/SkyMage/Intermediate/Build/Mac/arm64/SkyMage/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.h.d"
--o "/Users/fernandezd/Documents/GitHub/SkyMage/SkyMage/Intermediate/Build/Mac/arm64/SkyMage/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.h.gch"
+"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Intermediate/Build/Mac/arm64/SkyMage/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.h"
+-MD -MF"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Intermediate/Build/Mac/arm64/SkyMage/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.h.d"
+-o "/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Intermediate/Build/Mac/arm64/SkyMage/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.h.gch"
