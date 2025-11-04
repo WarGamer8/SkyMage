@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'SkyMage' in project 'SkyMage (Mac)' (no dependencies)
