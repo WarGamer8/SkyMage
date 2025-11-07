@@ -5,8 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Josiha
 				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/Levels/Tutorial.umap",
 				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/Levels/test.umap",
 				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/Levels/_GENERATED/myersj/Boolean_7B9CC190.uasset",
@@ -19,9 +22,12 @@
 				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/Levels/Lvl_FirstPerson/D/ZO/W5NXL25WUJ52QP8XRC1F80.uasset",
 				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/CR_Mannequin_Body_Take2.uasset",
 				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/Levels/Lvl_FirstPerson/0/O9/13XY4G9NKIXJZRUMCNVAQT.uasset",
+<<<<<<< HEAD
 				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/Levels/NewMap.umap",
 				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/Levels/Explosion_map.umap",
 >>>>>>> Stashed changes
+=======
+>>>>>>> Josiha
 				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/Circle__DS_.uasset",
 				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/Cube.uasset",
 				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/Vortex_PhysicsAsset.uasset",
