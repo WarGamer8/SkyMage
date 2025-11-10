@@ -5,88 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Josiha
-				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/Levels/Tutorial.umap",
-				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/Levels/test.umap",
-				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/Levels/_GENERATED/myersj/Boolean_7B9CC190.uasset",
-				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/Levels/_GENERATED/myersj/Boolean_820FAE1B.uasset",
-				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/Levels/_GENERATED/myersj/Boolean_B5B19134.uasset",
-				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/Levels/Lvl_FirstPerson/2/S0/AU5LT0S6LU0WFDLGBT113J.uasset",
-				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/Levels/Lvl_FirstPerson/4/0V/GRGNLKBI5G1AU65QUANDEW.uasset",
-				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/CR_Mannequin_Body_Take1.uasset",
-				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/Levels/Lvl_FirstPerson/D/ZO/W5NXL25WUJ52QP8XRC1F80.uasset",
-				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/CR_Mannequin_Body_Take2.uasset",
-				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/Levels/Lvl_FirstPerson/0/O9/13XY4G9NKIXJZRUMCNVAQT.uasset",
-<<<<<<< HEAD
-				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/Levels/NewMap.umap",
-				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/Levels/Explosion_map.umap",
->>>>>>> Stashed changes
-=======
->>>>>>> Josiha
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/Circle__DS_.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/Cube.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/Vortex_PhysicsAsset.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/Vortex_Skeleton.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/Vortex.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/Vortex_Anim.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/CheckpointSpacialTrigger.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/Interactable/FlamethrowerPickup.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/TD/GCOP770PXA9DRCFWR1U0LM.uasset",
-=======
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/Levels/TestMap/E/VG/G95ULQ7XSKUNNJ17CPHERB.uasset",
->>>>>>> main
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/Spells/ExplosionProjectile.uasset",
-<<<<<<< HEAD
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/Spells/Vortex.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_Door.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Corner.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/Levels/Lv1Draft.umap",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/AreaTriggers/TutorialTrigger.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/UI/TutorialPopup.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/AreaTriggers/KillBrick.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/KillBrick.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/AreaTriggers/CheckpointSpacialTrigger.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/RespawnPoint.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/Interactable/BP_WallForRunning.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/BP_WallForRunning.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/Interactable/RespawnPoint.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/Levels/TestMap/4/F7/HY3RDTMEH11UL76GMR0JSC.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/UI/HealthWidget.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/ParticleBlueprints/ExplosionParticle.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/Levels/TestMap/1/MO/F5DGYW20A98QF77SERCHHA.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/AreaTriggers/Checkpoint/CheckpointSpacialTrigger.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/AreaTriggers/Checkpoint/RespawnPoint.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/AreaTriggers/Checkpoint/CheckFlag.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/Levels/TestMap/4/91/3ZEMVNIG6LTNQIJ2WK57I1.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/CheckFlag/Flag.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/CheckFlag/Flagpole.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/VFX/NA_Systems/NS_Confti.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/CheckFlag/PoleBase.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/CheckFlag/flagunrigged.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/WallRunMaterial.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/Input/Actions/Spellcasting.uasset",
->>>>>>> main
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/Input/Actions/ChargedSpells/Singularity.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/Input/Actions/Spellcasting.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/Levels/Lv1Draft.umap",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/Levels/Tutorial.umap",
 				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/AreaTriggers/Checkpoint/KillRoom.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/EnemiesAndNPCs/TrailBlazer.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/EnemiesAndNPCs/AI/TrailBlazerAnimBlueprint.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/EnemiesAndNPCs/TrailblazerAI.uasset"
-=======
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/EnemiesAndNPCs/BP_TurretExplosion.uasset"
->>>>>>> main
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/Levels/Lv1Draft.umap",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/Spells/ExplosionProjectile.uasset"
 			]
 		}
 	]
