@@ -5,14 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/Levels/Lv1Draft.umap"
-=======
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/Levels/TestMap/E/VG/G95ULQ7XSKUNNJ17CPHERB.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/Levels/Tutorial.umap",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/AreaTriggers/Checkpoint/KillRoom.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/Levels/Lv1Draft.umap",
 				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/Spells/ExplosionProjectile.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/EnemiesAndNPCs/BP_TurretExplosion.uasset"
->>>>>>> main
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/Spells/ExplosionProjectile.uasset"
 			]
 		}
 	]
