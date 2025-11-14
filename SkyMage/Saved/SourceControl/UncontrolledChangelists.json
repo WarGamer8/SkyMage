@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/VFX/CAT_Fire.uasset",
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/VFX/CB_Fire.uasset",
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/VFX/M_fireBeam.uasset",
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/niagara/multy_frame/M_fireBeam.uasset",
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/niagara/multy_frame/CB_Fire.uasset",
+				"/Users/salmens/Documents/GitHub/SkyMage/SkyMage/Content/niagara/multy_frame/CAT_Fire.uasset",
 				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/Levels/Lv1Draft.umap",
 				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/Interactable/Door/KRDoor.uasset",
