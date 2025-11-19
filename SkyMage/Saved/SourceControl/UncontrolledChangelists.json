@@ -5,9 +5,25 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/Levels/Tutorial.umap",
 				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/AreaTriggers/Checkpoint/KillRoom.uasset",
 				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/Levels/Lv1Draft.umap",
+=======
+				"/Users/fernandezd/GitHub/SkyMage/Content/ArtistDropbox/Material_001.uasset",
+				"/Users/fernandezd/GitHub/SkyMage/Content/Levels/MainMenu.umap",
+				"/Users/fernandezd/GitHub/SkyMage/Content/UI/MM_Buttons.uasset",
+				"/Users/fernandezd/GitHub/SkyMage/Content/UI/MainMenuWidget.uasset",
+				"/Users/fernandezd/GitHub/SkyMage/Content/__ExternalActors__/Levels/TestMap/E/VG/G95ULQ7XSKUNNJ17CPHERB.uasset",
+				"/Users/fernandezd/GitHub/SkyMage/Content/__ExternalActors__/Levels/TestMap/1/1M/S3H9G1HXBKCQF66JM0Q71F.uasset",
+				"/Users/fernandezd/GitHub/SkyMage/Content/__ExternalActors__/Levels/TestMap/2/6A/DI8JDZRV1AXWBM58T8M41U.uasset",
+				"/Users/fernandezd/GitHub/SkyMage/Content/__ExternalActors__/Levels/TestMap/2/8W/RA4P44QTAW5JN6WIJ1YPZB.uasset",
+				"/Users/fernandezd/GitHub/SkyMage/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"/Users/fernandezd/GitHub/SkyMage/Content/Input/Actions/IA_Pause.uasset",
+				"/Users/fernandezd/GitHub/SkyMage/Content/Input/IMC_Default.uasset",
+				"/Users/fernandezd/GitHub/SkyMage/Content/UI/Pause_Menu.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/__ExternalActors__/Levels/TestMap/E/VG/G95ULQ7XSKUNNJ17CPHERB.uasset",
+>>>>>>> Damian
 				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/Spells/ExplosionProjectile.uasset",
 				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/EnemiesAndNPCs/BP_TurretExplosion.uasset",
