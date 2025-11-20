@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/fernandezd/GitHub/SkyMage/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"D:/godotgaes/indecipherable/SkyMage/SkyMage/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
 				"D:/godotgaes/indecipherable/SkyMage/SkyMage/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"D:/godotgaes/indecipherable/SkyMage/SkyMage/Content/LevelPrototyping/AreaTriggers/KillBrick.uasset",
