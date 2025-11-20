@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/Levels/Lv1Draft.umap",
 				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/Interactable/Door/KRDoor.uasset",
@@ -42,20 +43,19 @@
 				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/pedistal/podium.uasset",
 				"D:/godotgaes/indecipherable/SkyMage/SkyMage/Content/__ExternalActors__/Levels/TestMap/E/VG/G95ULQ7XSKUNNJ17CPHERB.uasset",
 				"D:/godotgaes/indecipherable/SkyMage/SkyMage/Content/__ExternalActors__/Levels/TestMap/B/6N/FVV4RA4FU7BN1SO0YWI5VX.uasset",
+=======
+				"D:/godotgaes/indecipherable/SkyMage/SkyMage/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+>>>>>>> Milly
 				"D:/godotgaes/indecipherable/SkyMage/SkyMage/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"D:/godotgaes/indecipherable/SkyMage/SkyMage/Content/Levels/ActI/Assets/BlankScreen.uasset",
-				"D:/godotgaes/indecipherable/SkyMage/SkyMage/Content/__ExternalActors__/Levels/TestMap/E/VB/NEL124TV0X1X2LI2L193XP.uasset",
-				"D:/godotgaes/indecipherable/SkyMage/SkyMage/Content/LevelPrototyping/AreaTriggers/Checkpoint/KillRoom.uasset",
-				"D:/godotgaes/indecipherable/SkyMage/SkyMage/Content/Levels/ActI/Assets/ObDeckPC.uasset",
-				"D:/godotgaes/indecipherable/SkyMage/SkyMage/Content/Levels/ActI/Assets/ObservationDeck.uasset",
-				"D:/godotgaes/indecipherable/SkyMage/SkyMage/Content/Levels/ActI/Assets/ObservationDeck1.uasset",
-				"D:/godotgaes/indecipherable/SkyMage/SkyMage/Content/__ExternalActors__/Levels/TestMap/8/0F/Z14DGWZE1F4FZDNJ4SIMA3.uasset",
-				"D:/godotgaes/indecipherable/SkyMage/SkyMage/Content/Levels/ActI/Assets/ScreenDisplay.uasset",
-				"D:/godotgaes/indecipherable/SkyMage/SkyMage/Content/Levels/ActI/Lv1Draft.umap",
-				"D:/godotgaes/indecipherable/SkyMage/SkyMage/Content/FirstPerson/EnemiesAndNPCs/BP_TurretExplosion.uasset",
-				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/EngineMeshes/M_Mat_UnrealTech.uasset",
-				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/MapTemplates/Sky/M_Procedural_Sky_Daytime.uasset",
-				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/MapTemplates/Sky/M_Procedural_Sky_MASTER02.uasset"
+				"D:/godotgaes/indecipherable/SkyMage/SkyMage/Content/LevelPrototyping/AreaTriggers/KillBrick.uasset",
+				"D:/godotgaes/indecipherable/SkyMage/SkyMage/Content/LevelPrototyping/AreaTriggers/TutorialTrigger.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/UI/MM_Buttons.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/AreaTriggers/KillBrick.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/Levels/Lv1Draft.umap",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/AreaTriggers/TutorialTrigger.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/AreaTriggers/Checkpoint/RespawnPoint.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/Levels/ActI/Lv1Draft.umap"
 			]
 		}
 	]
