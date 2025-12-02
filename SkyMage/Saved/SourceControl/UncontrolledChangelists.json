@@ -19,7 +19,14 @@
 				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/WallRunArrow_Anim.uasset",
 				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/WallRunArrow_PhysicsAsset.uasset",
 				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/WallRunArrow_Skeleton.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/WallRunMaterial.uasset"
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/WallRunMaterial.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/ArrowColor.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/Highlights.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/Shadow.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/AreaTriggers/Checkpoint/KillRoom.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/VFX/NA_Systems/NS_FireCubes.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/niagara/multy_frame/M_fireBeam.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/Levels/ActI/Assets/ScreenDisplay.uasset"
 			]
 		}
 	]
