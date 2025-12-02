@@ -7,7 +7,19 @@
 			"files": [
 				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/WRArrowAnim.uasset"
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/WRArrowAnim.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/Levels/Lv1Draft.umap",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/Interactable/BP_WallForRunning.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/Backdrop.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/Base.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/HighlightColor.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/ShadowColor.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/UI/TutorialPopup.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/WallRunArrow.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/WallRunArrow_Anim.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/WallRunArrow_PhysicsAsset.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/WallRunArrow_Skeleton.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/WallRunMaterial.uasset"
 			]
 		}
 	]
