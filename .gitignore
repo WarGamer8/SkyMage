@@ -73,4 +73,10 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-.DS_Store
+/SkyMage/Saved/Cooked
+/SkyMage/Build
+/SkyMage/Intermediate
+/SkyMage/Saved/Config
+/SkyMage/Saved/Cooked
+/SkyMage/Saved/StagedBuilds
+/SkyMage/Intermediate
