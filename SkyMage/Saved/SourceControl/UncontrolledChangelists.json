@@ -13,7 +13,11 @@
 				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/Materials/MI_DefaultColorway.uasset",
 				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/Materials/M_FlatCol.uasset",
 				"/Users/Shared/EpicGames/UE_5.6/Engine/Content/EngineDebugMaterials/M_SimpleOpaque.uasset",
-				"/Users/Shared/EpicGames/UE_5.6/Engine/Content/EngineDebugMaterials/PhysicalMaterialMaskMaterial.uasset"
+				"/Users/Shared/EpicGames/UE_5.6/Engine/Content/EngineDebugMaterials/PhysicalMaterialMaskMaterial.uasset",
+				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/WallRunMaterial.uasset",
+				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/Levels/Lv1Draft.umap",
+				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/VFX/M_VFX/MAT_OpSprite.uasset",
+				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/VFX/NA_Systems/NS_FireCubes.uasset"
 			]
 		}
 	]
