@@ -5,44 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/BasicCube.uasset",
-				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/Levels/ActI/Explosion_map.umap",
-				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"/Users/Shared/EpicGames/UE_5.6/Engine/Content/MapTemplates/MASTER_Sky_Material.uasset",
-				"/Users/Shared/EpicGames/UE_5.6/Engine/Content/EditorMeshes/Camera/MI_CraneRig.uasset",
-				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/Materials/MI_DefaultColorway.uasset",
-				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/Materials/M_FlatCol.uasset",
-				"/Users/Shared/EpicGames/UE_5.6/Engine/Content/EngineDebugMaterials/M_SimpleOpaque.uasset",
-				"/Users/Shared/EpicGames/UE_5.6/Engine/Content/EngineDebugMaterials/PhysicalMaterialMaskMaterial.uasset",
-				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/WallRunMaterial.uasset",
-				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/Levels/Lv1Draft.umap",
-				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/VFX/M_VFX/MAT_OpSprite.uasset",
-				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/VFX/NA_Systems/NS_FireCubes.uasset"
-=======
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/WRArrowAnim.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/Levels/Lv1Draft.umap",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/Interactable/BP_WallForRunning.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/Backdrop.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/Base.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/HighlightColor.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/ShadowColor.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/UI/TutorialPopup.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/WallRunArrow.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/WallRunArrow_Anim.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/WallRunArrow_PhysicsAsset.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/WallRunArrow_Skeleton.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/FirstPerson/Blueprints/WallRunMaterial.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/ArrowColor.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/Highlights.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/Shadow.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/AreaTriggers/Checkpoint/KillRoom.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/VFX/NA_Systems/NS_FireCubes.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/niagara/multy_frame/M_fireBeam.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/Levels/ActI/Assets/ScreenDisplay.uasset"
->>>>>>> Milly
+				"/Users/myersj/Documents/GitHub/SkyMage/SkyMage/Content/Levels/ActI/Explosion_map.umap"
 			]
 		}
 	]
