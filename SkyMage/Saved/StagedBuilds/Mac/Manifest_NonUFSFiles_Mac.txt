@@ -1,8 +1,8 @@
 SkyMage/Binaries/Mac/SkyMage-Mac-Shipping	2025-12-08T15:21:05.561Z
 SkyMage/Binaries/Mac/SkyMage-Mac-Shipping.app/Contents/Info.plist	2025-12-08T15:44:05.477Z
-SkyMage/Binaries/Mac/SkyMage-Mac-Shipping.app/Contents/MacOS/SkyMage-Mac-Shipping	2025-12-08T15:44:05.779Z
+SkyMage/Binaries/Mac/SkyMage-Mac-Shipping.app/Contents/MacOS/SkyMage-Mac-Shipping	2025-12-10T15:09:20.793Z
 SkyMage/Binaries/Mac/SkyMage-Mac-Shipping.app/Contents/PkgInfo	2025-10-07T13:15:46.056Z
-SkyMage/Binaries/Mac/SkyMage-Mac-Shipping.app/Contents/_CodeSignature/CodeResources	2025-12-08T15:44:05.559Z
+SkyMage/Binaries/Mac/SkyMage-Mac-Shipping.app/Contents/_CodeSignature/CodeResources	2025-12-10T15:09:20.591Z
 SkyMage/Binaries/Mac/libtbb.12.13.dylib	2025-12-08T15:21:01.819Z
 SkyMage/Binaries/Mac/libtbb.12.dylib	2025-12-08T15:21:01.819Z
 SkyMage/Binaries/Mac/libtbb.dylib	2025-12-08T15:21:01.819Z
@@ -15,5 +15,5 @@ Engine/Binaries/ThirdParty/Vorbis/Mac/libvorbis.dylib	2025-08-26T15:00:47.000Z
 Engine/Content/Renderer/TessellationTable.bin	2025-08-26T15:02:23.000Z
 Engine/Plugins/NNE/NNERuntimeORT/Binaries/ThirdParty/Onnxruntime/Mac/libonnxruntime.1.20.dylib	2025-08-26T15:18:16.000Z
 Engine/Plugins/NNE/NNERuntimeORT/Binaries/ThirdParty/Onnxruntime/Mac/libonnxruntime.dylib	2025-08-26T15:18:16.000Z
-Engine/Config/StagedBuild_SkyMage.ini	2025-12-08T15:44:32.069Z
+Engine/Config/StagedBuild_SkyMage.ini	2025-12-10T15:09:46.425Z
 UECommandLine.txt	A7EDD5AADA5A3CDF1C0CCC49376C1AC2

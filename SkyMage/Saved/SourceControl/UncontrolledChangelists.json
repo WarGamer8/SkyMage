@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"/Users/fernandezd/GitHub/SkyMage/Content/UI/SpellSwitching.uasset",
 				"/Users/fernandezd/GitHub/SkyMage/Content/UI/ImagesForUI/the_wild_beast_png.uasset",
 				"/Users/fernandezd/GitHub/SkyMage/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
@@ -76,14 +77,10 @@
 				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/UI/BP_MainMenu.uasset",
 				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/LevelPrototyping/AreaTriggers/Checkpoint/CheckpointSpacialTrigger.uasset",
 				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/UI/LevelSelect.uasset",
+=======
+>>>>>>> main
 				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/UI/MM_Buttons.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/VFX/NA_Systems/NS_FireCubesLocal.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/Input/Actions/IA_SprintEnd.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/WRArrowAnim.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/Backdrop.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/Base.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/HighlightColor.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/WallRunArrow/ShadowColor.uasset"
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/Levels/Lv1Draft.umap"
 			]
 		}
 	]
