@@ -6,7 +6,13 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/UI/MM_Buttons.uasset",
-				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/Levels/Lv1Draft.umap"
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/Levels/Lv1Draft.umap",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/SpellCrystal/Crystal.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/SpellCrystal/Frame.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/SpellCrystal/Glass.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/SpellCrystal/Internal.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/SpellCrystal/Material.uasset",
+				"/Users/doddm/Documents/GitHub/SkyMage/SkyMage/Content/ArtistDropbox/SpellCrystal/SpellCrystal.uasset"
 			]
 		}
 	]
