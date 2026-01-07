@@ -1,6 +1,10 @@
 {
 	"FileVersion": 3,
+<<<<<<< HEAD
+	"EngineAssociation": "{682B7562-304E-37A1-8B9C-8B8767BB8F3A}",
+=======
 	"EngineAssociation": "5.6",
+>>>>>>> origin/Milly
 	"Category": "",
 	"Description": "",
 	"Plugins": [
